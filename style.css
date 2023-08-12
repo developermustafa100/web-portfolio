@@ -1,3 +1,6 @@
+p{
+    color: dimgray;
+}
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
@@ -5,7 +8,10 @@ body{
 h1{
     font-size: 50px;
 }
-.name-highlight{
+h2{
+    font-size: 40px;
+}
+.orange-highlight{
     color: orange;
 }
 .half-width{
@@ -33,4 +39,9 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: 700;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
